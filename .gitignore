@@ -1,0 +1,20 @@
+# Credentials
+.env
+*.env
+!.env.example
+*token*.json
+*credentials*
+
+# Generated data
+data/cache/
+data/market_cap.csv
+*.log
+nse_screen_*.csv
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml

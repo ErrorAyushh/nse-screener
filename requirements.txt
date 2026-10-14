@@ -1,0 +1,7 @@
+kiteconnect>=5.0,<6
+streamlit>=1.50
+pandas>=2.1
+numpy>=1.26
+python-dotenv>=1.0
+openpyxl>=3.1      # only for importing .xlsx market-cap files
+pytest>=8.0
